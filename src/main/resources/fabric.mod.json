@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "technicaltome",
-  "version": "${mod_version}",
+  "version": "${version}",
 
   "name": "S. C. Arzehd's Technical Tome",
   "description": "This is an example description! Tell everyone what your mod is about!",
