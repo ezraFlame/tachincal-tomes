@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
-  "version": "${version}",
+  "id": "technicaltome",
+  "version": "${mod_version}",
 
-  "name": "Example Mod",
+  "name": "S. C. Arzehd's Technical Tome",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "S. S. Arzehd"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -14,16 +14,16 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/technicaltome/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.scarzehd.technicaltome.ExampleMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "technicaltome.mixins.json"
   ],
 
   "depends": {
